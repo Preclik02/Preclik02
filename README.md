@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 14 years old developer.<br>I work on small CLI projects/programs.<br>I work solo.<br>I mainly work in C/C++/shell/python.
+I'm 15 years old developer.<br>I work on small CLI projects/programs.<br>I work solo.<br>I mainly work in C/C++/shell/python.
 
 
 ## 🌐 Socials:
